@@ -1,7 +1,7 @@
 {
-  "name": "utils",
+  "name": "huzz-utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "自用工具函数",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
