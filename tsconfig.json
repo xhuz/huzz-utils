@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "UMD",
+    "target": "es5",
+    "outDir": "./dist",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "strictNullChecks":true,
+    "declaration": true,
+    "declarationDir": "./@types",
+    "lib": ["dom", "es2017"]
+  },
+  "include": ["src/**/*"]
+}
